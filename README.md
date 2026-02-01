@@ -74,5 +74,3 @@ Applied NLP for real-world customer feedback analysis
 Structured machine learning experimentation
 
 Reproducible and interpretable sentiment analysis pipelines
-
-What to do next (important)
