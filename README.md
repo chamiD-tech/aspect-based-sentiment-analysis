@@ -29,7 +29,7 @@ A fine-tuned RoBERTa model was used to classify the sentiment associated with ea
 
 This two-stage approach allows sentiment to be analysed at a much finer granularity than document-level sentiment classification.
 
-<!-- Model Performance
+Model Performance
 
 BERT (Aspect Extraction):
 
@@ -43,7 +43,7 @@ Precision: 0.8194
 
 F1 Score: 0.7993
 
-The results demonstrate strong performance in identifying relevant aspects and reasonably robust sentiment classification at the aspect level.-->
+The results demonstrate strong performance in identifying relevant aspects and reasonably robust sentiment classification at the aspect level.
 
 * Key Outcomes
 
