@@ -74,3 +74,11 @@ Applied NLP for real-world customer feedback analysis
 Structured machine learning experimentation
 
 Reproducible and interpretable sentiment analysis pipelines
+
+## Project Structure
+
+- `notebooks/` – Jupyter notebooks for data exploration and analysis  
+- `data/` – Placeholder for raw and processed datasets (not included for privacy)  
+- `src/` – Scripts for preprocessing, modeling, and evaluation  
+- `requirements.txt` – Python dependencies required to run the project
+
